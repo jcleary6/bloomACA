@@ -3,7 +3,7 @@
   <name>BloomAcademy</name>
   <description>The Bloom Academy Mobile official app</description>
   <author href="http://http://itismystyle.com/iedu-portal/" email="lester@itismystyle.com ">Lester Stoffels</author>
-  <content src="index.php"/>
+  <content src="index.html"/>
   <access origin="*"/>
   <allow-navigation href="cdvfile:*"/>
   <allow-navigation href="content:*"/>
@@ -19,7 +19,7 @@
   <preference name="KeyboardDisplayRequiresUserAction" value="false"/>
   <preference name="android-minSdkVersion" value="14" />
   <preference name="android-targetSdkVersion" value="19" />
-  <preference name="AppendUserAgent" value="MoodleMobile" />
+  <preference name="AppendUserAgent" value="BloomAcademy" />
   <feature name="StatusBar">
     <param name="ios-package" value="CDVStatusBar" onload="true"/>
   </feature>
