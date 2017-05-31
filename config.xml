@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.bloomAcademy.mobileApp" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.bloomAcademy.mobilelms" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>BloomAcademy</name>
   <description>The Bloom Academy Mobile official app</description>
   <author href="http://http://itismystyle.com/iedu-portal/" email="lester@itismystyle.com ">Lester Stoffels</author>
-  <content src="index.html"/>
+  <content src="index.php"/>
   <access origin="*"/>
   <allow-navigation href="cdvfile:*"/>
   <allow-navigation href="content:*"/>
