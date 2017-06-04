@@ -1,7 +1,7 @@
 {
-    "app_id" : "com.bloomAcademy.mobilelms",
+    "app_id" : "com.BloomAcademy.mobilelms",
     "appname": "BloomAcademy",
-    "versioncode" : "1",
+    "versionCode" : "1",
     "versionname" : "1.0",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
