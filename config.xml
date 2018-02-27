@@ -2,14 +2,13 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.BloomAcademy.mobilelms"
+        id        = "com.upra.mobilelms"
         versionCode = "1"
         version   = "1.0">
-    <name>BloomAcademy</name>
+    <name>Materiali Online</name>
 
     <description>
-       The Bloom Academy Mobile official app
-    </description>
+The Official UPRA App    </description>
 
     <author href="http://itismystyle.com/iedu-portal/" email="lester@itismystyle.com">
         Lester Stoffels
